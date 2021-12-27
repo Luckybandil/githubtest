@@ -4,7 +4,7 @@ class Method
 	{
 		System.out.println("main method start");
         prime(10);
-       System.out.println("main method ends");
+       
 	}
 
 	public static void prime(int num)
